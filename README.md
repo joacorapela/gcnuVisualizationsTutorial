@@ -6,4 +6,9 @@
 
 3. **report/latentsReport.tex** is a latex source that shows the previous figures, with hyperlinks to interactive html figures.
 
+I run this tutorial using the following packages:
+
+    . plotly 4.4.1
+    . dash 1.12.0
+
 Enjoy.
